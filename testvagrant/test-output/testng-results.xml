@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15925" started-at="2022-10-13T06:16:51Z" finished-at="2022-10-13T06:17:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15925" started-at="2022-10-13T06:16:51Z" finished-at="2022-10-13T06:17:07Z">
+      <class name="com.tests.Assignment">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tests.Assignment@1563da5]" name="setup" is-config="true" duration-ms="8147" started-at="2022-10-13T11:46:51Z" finished-at="2022-10-13T11:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.tests.Assignment@1563da5]" name="init" is-config="true" duration-ms="1" started-at="2022-10-13T11:46:59Z" finished-at="2022-10-13T11:46:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="validateMovieDetails()[pri:0, instance:com.tests.Assignment@1563da5]" name="validateMovieDetails" duration-ms="6957" started-at="2022-10-13T11:46:59Z" finished-at="2022-10-13T11:47:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMovieDetails -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.tests.Assignment@1563da5]" name="teardown" is-config="true" duration-ms="808" started-at="2022-10-13T11:47:06Z" finished-at="2022-10-13T11:47:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.tests.Assignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

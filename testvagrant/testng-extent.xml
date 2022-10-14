@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+
+<suite name = "Full Regression">
+
+<test name = "Claims Test">
+
+            <groups>	
+				<run>	
+   					 <include name="regression" />	
+        		</run>	
+       		</groups>	
+
+<classes>
+<class name = "com.tests.FirstTest"/>
+ 
+ 
+</classes>
+
+</test>
+
+
+</suite>
